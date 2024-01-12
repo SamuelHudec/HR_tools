@@ -19,8 +19,8 @@ dependencies = [
     "scikit-learn==1.2.2",
     "numpy==1.23.5",
     "torchaudio==2.1.2",
-    "librosa",
-    "pydub",
+    "librosa==0.10.1",
+    "pydub==0.25.1",
 ]
 
 [project.optional-dependencies]
